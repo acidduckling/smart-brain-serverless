@@ -1,4 +1,4 @@
-# SMart Brain Serverless Notes
+# Smart Brain Serverless Notes
 Serverless Amazon Lambda code related to Udemy course
 
 ## AWS Serverless
