@@ -1,4 +1,6 @@
-# Serverless Notes
+# SMart Brain Serverless Notes
+Serverless Amazon Lambda code related to Udemy course
+
 ## AWS Serverless
 ```bash
 # Install Serverless to manage AWS Lambda functions
